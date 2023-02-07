@@ -1,4 +1,6 @@
 # Vueling_Tech_Hack
+made by [Guillermo Seoane](https://www.linkedin.com/in/guilleseoane/)
+
 ## Dashboard-Data Science Challenge
 
 ✈️ Context:
@@ -31,3 +33,4 @@ The metric used to evaluate the predictive algorithm has been **F1 Score Macro**
 
 * [Download 'JSON'](https://github.com/datagseoane/Vueling_Hack/blob/main/target.json)
 
+Date: 08/02/2023
