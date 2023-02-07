@@ -18,18 +18,16 @@ The information you will have is from the history of air routes. Datasets:
 
 **Archives:**
 
-train.csv (This dataset contains both predictor variables and the target variable).
-test.csv (This dataset contains both predictor variables and the target variable).
-
-Download 'train.csv'
-Download 'test.csv'
+* train.csv (This dataset contains both predictor variables and the target variable). [Download 'train.csv'](https://github.com/datagseoane/Vueling_Hack/blob/main/data/train.csv)
+* test.csv (This dataset contains both predictor variables and the target variable). [Download 'test.csv'](https://github.com/datagseoane/Vueling_Hack/blob/main/data/test.csv)
 
 Carry out an exploratory analysis of the data that allows you to understand it better and find insights (ex: flights per month, most used routes, etc.) based on "Mapping Destination Countries".
 
-Download 'Mapping Destination Countries'
+* [Download 'Mapping Destination Countries'](https://github.com/datagseoane/Vueling_Hack/blob/main/encode_countries.json)
 
-The metric you will use to evaluate the predictive algorithm will be F1 Score Macro.
+The metric you will use to evaluate the predictive algorithm will be **F1 Score Macro**.
 
 ✅ Submission:
 
-Download 'JSON' [
+* [Download 'JSON'](https://github.com/datagseoane/Vueling_Hack/blob/main/target.json)
+
