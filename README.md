@@ -25,7 +25,7 @@ Carry out an exploratory analysis of the data that allows you to understand it b
 
 * [Download 'Mapping Destination Countries'](https://github.com/datagseoane/Vueling_Hack/blob/main/encode_countries.json)
 
-The metric you will use to evaluate the predictive algorithm will be **F1 Score Macro**.
+The metric used to evaluate the predictive algorithm has been **F1 Score Macro**.
 
 ✅ Submission:
 
