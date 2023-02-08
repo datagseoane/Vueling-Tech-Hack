@@ -11,7 +11,7 @@ At the last Annual General Assembly of IATA, the zero net CO₂ emissions in 205
 In the repository you can find:
 * **Exploratory_analysis** of the data,that allows you to understand it better and find insights (ex: flights per month, most used routes, etc.) based on "Mapping Destination Countries". [Download 'Mapping Destination Countries'](https://github.com/datagseoane/Vueling_Hack/blob/main/encode_countries.json)
 * **Model:** model used for prediction.
-* A **ppt** explaining how I have reach the solution
+* A **presentation.pdf** explaining how I have reach the solution
 
 🦾 **Dataset Dictionary:**
 
