@@ -26,13 +26,14 @@ The data has been split into two groups:
 * The **training set** has been used to build the machine learning models. [Download 'train.csv'](https://github.com/datagseoane/Vueling_Hack/blob/main/data/train.csv)
 * The **test set** has been used to see how well our model performs on unseen data. For the test set, the *Destination Country* variable is not provided. [Download 'test.csv'](https://github.com/datagseoane/Vueling_Hack/blob/main/data/test.csv)
 
-Carry out an exploratory analysis of the data that allows you to understand it better and find insights (ex: flights per month, most used routes, etc.) based on "Mapping Destination Countries".
-
-* [Download 'Mapping Destination Countries'](https://github.com/datagseoane/Vueling_Hack/blob/main/encode_countries.json)
+In the repository you can also find:
+* **Exploratory_analysis** of the data,that allows you to understand it better and find insights (ex: flights per month, most used routes, etc.) based on "Mapping Destination Countries". [Download 'Mapping Destination Countries'](https://github.com/datagseoane/Vueling_Hack/blob/main/encode_countries.json)
+* **Model:** model used for prediction.
+* A **ppt** explaining how you have reach the solution
 
 📚 **Evaluation:**
 The metric used to evaluate the predictive algorithm has been **F1 Score Macro**. 
-* **SCORE: 0.91**
+* **f1-SCORE: 0.97**
 * **Model:** RandomForestClassifier
 
 ✅ Submission:
