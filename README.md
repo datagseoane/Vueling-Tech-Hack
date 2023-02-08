@@ -31,11 +31,10 @@ The data has been split into two groups:
 
 #### 📏 **Evaluation:**
 The metric used to evaluate the predictive algorithm has been **F1 Score Macro**. 
-* **F1-Score: 0.97**
 * **Model:** RandomForestClassifier
 
 ##### ✅ Submission:
-
+* **F1-Score: 0.97**
 * [Download 'JSON'](https://github.com/datagseoane/Vueling_Hack/blob/main/target.json)
 
 #### Date: 08/02/2023
