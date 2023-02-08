@@ -29,7 +29,7 @@ The data has been split into two groups:
 In the repository you can also find:
 * **Exploratory_analysis** of the data,that allows you to understand it better and find insights (ex: flights per month, most used routes, etc.) based on "Mapping Destination Countries". [Download 'Mapping Destination Countries'](https://github.com/datagseoane/Vueling_Hack/blob/main/encode_countries.json)
 * **Model:** model used for prediction.
-* A **ppt** explaining how you have reach the solution
+* A **ppt** explaining how I have reach the solution
 
 📚 **Evaluation:**
 The metric used to evaluate the predictive algorithm has been **F1 Score Macro**. 
