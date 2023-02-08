@@ -31,7 +31,7 @@ The data has been split into two groups:
 
 #### 📏 **Evaluation:**
 The metric used to evaluate the predictive algorithm has been **F1 Score Macro**. 
-* **f1-SCORE: 0.97**
+* **F1-Score: 0.97**
 * **Model:** RandomForestClassifier
 
 ##### ✅ Submission:
