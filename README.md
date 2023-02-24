@@ -38,3 +38,6 @@ The metric used to evaluate the predictive algorithm has been **F1 Score Macro**
 * [Download 'JSON'](https://github.com/datagseoane/Vueling_Hack/blob/main/predictions.json)
 
 #### Date: 08/02/2023
+
+#### Ranking: 1/4
+#### Score: 1169 / 1200
