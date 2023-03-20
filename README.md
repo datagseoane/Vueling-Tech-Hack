@@ -4,16 +4,16 @@ My name is [Guillermo Seoane](https://www.linkedin.com/in/guilleseoane/) and I'm
 
 ## Dashboard-Data Science Challenge
 
-✈️ Context:
+#### ✈️ Context:
 At the last Annual General Assembly of IATA, the zero net CO₂ emissions in 2050 (aviation sector) resolution finally got approved. That lets us be one step closer to the Paris Agreement of 2015, accomplishing not exceeding 1.5 ºC the Earth's temperature.
 
-#### 📚**Archives:**  
+#### 📚 Archives: 
 In the repository you can find:
 * **Exploratory_analysis** of the data,that allows you to understand it better and find insights (ex: flights per month, most used routes, etc.) based on "Mapping Destination Countries". [Download 'Mapping Destination Countries'](https://github.com/datagseoane/Vueling-Tech-Hack/blob/main/data/encode_countries.json)
 * **Model:** model used for prediction.
 * A **presentation.pdf** explaining how I have reach the solution
 
-🦾 **Dataset Dictionary:**
+#### 🦾 Dataset Dictionary:
 
 * **Date:** Flight date.
 * **Origin_Country :** Country of origin.
@@ -33,7 +33,7 @@ The data has been split into two groups:
 The metric used to evaluate the predictive algorithm has been **F1 Score Macro**. 
 * **Model:** RandomForestClassifier
 
-##### ✅ Submission:
+#### ✅ Submission:
 * **F1-Score: 0.97**
 * [Download 'JSON'](https://github.com/datagseoane/Vueling_Hack/blob/main/predictions.json)
 
